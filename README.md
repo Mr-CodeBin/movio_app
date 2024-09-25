@@ -14,7 +14,7 @@ Movio is a Flutter application that allows users to browse and search for movies
 
 You can download the latest build of the app from the following link:
 
-- [Download APK for Android](https://github.com/Mr-CodeBin/movio/assets/app-release.apk)
+- [Download APK for Android](/assets/app-release.apk)
 
 
 ## Screenshots
