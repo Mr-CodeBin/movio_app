@@ -12,9 +12,8 @@ Movio is a Flutter application that allows users to browse and search for movies
 
 ## Screenshots
 
-![Home Screen](screenshots/home_screen.png)
-![Search Screen](screenshots/search_screen.png)
-![Detail Screen](screenshots/detail_screen.png)
+
+<img src="assets/screenshots/homescreen.jpeg" width="200"> <img src="assets/screenshots/searchscreen.jpeg" width="200"> <img src="assets/screenshots/detailscreen.jpeg" width="200">
 
 ## Installation
 
@@ -65,3 +64,11 @@ lib/
 └── widgets/
     ├── movie_card.dart
     └── nav_bar.dart
+```
+
+## Dependencies:
+- provider
+- http
+- expandable_text
+- google_nav_bar
+- flutter_native_splash
