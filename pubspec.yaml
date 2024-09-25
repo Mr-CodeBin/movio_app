@@ -40,6 +40,12 @@ dependencies:
   google_nav_bar: ^5.0.6
   http: ^1.2.2
   expandable_text: ^2.3.0
+  flutter_launcher_icons: ^0.14.1
+
+flutter_launcher_icons:
+  android: "ic_launcher"
+  ios: true
+  image_path: "assets/icons/def_logo.png"
 
 dev_dependencies:
   flutter_test:
@@ -58,6 +64,8 @@ flutter:
   assets:
     - assets/images/
     - assets/
+    - assets/icons/
+    - assets/icons/ui_logo.png
     
 
   # An image asset can refer to one or more resolution-specific "variants", see
